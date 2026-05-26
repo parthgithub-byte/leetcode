@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parthgithub-byte/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
