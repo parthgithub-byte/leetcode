@@ -1,12 +1,25 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_set<char>st(word.begin(), word.end());
+
+        vector<int> lower(26, 0);
+        vector<int> upper(26, 0);
+
+        for (char c : word) {
+
+            if (c >= 'a' && c <= 'z') {
+                lower[c - 'a'] = 1;
+            }
+
+            else if (c >= 'A' && c <= 'Z') {
+                upper[c - 'A'] = 1;
+            }
+        }
 
         int count = 0;
 
-        for (char c='a'; c<='z'; c++){
-            if (st.count(c) && st.count(toupper(c))){
+        for (int i=0; i<26; i++) {
+            if (lower[i] && upper[i]) {
                 count++;
             }
         }
