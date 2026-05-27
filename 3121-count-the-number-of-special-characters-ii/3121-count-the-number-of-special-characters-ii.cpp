@@ -2,49 +2,43 @@ class Solution {
 public:
     int numberOfSpecialChars(string word) {
 
-        unordered_map<char, int> visitedLetters;
+        unordered_set<char> letterSeen;
+        unordered_set<char> letterSatisfied;
+        unordered_set<char> letterInvalid;
 
-        // 0 -> lowercase seen
-        // 1 -> valid special
-        // -1 -> permanently invalid
 
         for (char letter : word) {
+            if (letter < 'a'){
+                // i.e. if the letter is of upper case already
+                char lower = tolower(letter);
 
-            // lowercase
-            if (islower(letter)) {
-
-                // uppercase appeared before
-                if (visitedLetters[letter] == 1 ||
-                    visitedLetters[letter] == -1) {
-
-                    visitedLetters[letter] = -1;
+                if (!letterSeen.count(lower)){
+                    // uppercase appeared before, thus make the letter invalid
+                    letterInvalid.insert(lower);
                 }
-                else {
-                    visitedLetters[letter] = 0;
+                else if(letterSeen.count(lower) && !letterSatisfied.count(lower)){
+                    letterSatisfied.insert(lower);
                 }
             }
 
-            // uppercase
+            // lowercase letter
             else {
-
-                char lower = tolower(letter);
-
                 // uppercase before lowercase
-                if (visitedLetters.count(lower) == 0) {
-                    visitedLetters[lower] = -1;
+                if (letterSatisfied.count(letter)) {
+                    letterInvalid.insert(letter);
                 }
 
                 // valid case
-                else if (visitedLetters[lower] != -1) {
-                    visitedLetters[lower] = 1;
+                else{
+                    letterSeen.insert(letter);
                 }
             }
         }
 
         int count = 0;
 
-        for (auto &item : visitedLetters) {
-            if (item.second == 1) {
+        for (auto element : letterSatisfied){
+            if (!letterInvalid.count(element)){
                 count++;
             }
         }
