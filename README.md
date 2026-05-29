@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
