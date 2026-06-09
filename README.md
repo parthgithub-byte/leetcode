@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parthgithub-byte/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parthgithub-byte/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parthgithub-byte/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
 ## Array
 |  |
 | ------- |
@@ -40,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
