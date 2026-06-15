@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parthgithub-byte/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/parthgithub-byte/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parthgithub-byte/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/parthgithub-byte/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parthgithub-byte/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parthgithub-byte/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/parthgithub-byte/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
