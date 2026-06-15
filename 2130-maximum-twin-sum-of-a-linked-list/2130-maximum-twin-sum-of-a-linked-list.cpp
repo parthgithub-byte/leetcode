@@ -10,30 +10,33 @@
  */
 class Solution {
 public:
-    // ListNode *reverseList(ListNode *head, ListNode *prev=nullptr){
-    //     if(!head){
-    //         return prev;
-    //     }
-    //     ListNode *nextNode = head->next;
-    //     head->next = prev;
-    //     return reverseList(nextNode, head);
-    // }
+    ListNode *reverseList(ListNode *head, ListNode *prev=nullptr){
+        if(!head){
+            return prev;
+        }
+        ListNode *nextNode = head->next;
+        head->next = prev;
+        return reverseList(nextNode, head);
+    }
 
     int pairSum(ListNode* head) {
-        ListNode *curr = head;
-        vector<int>arr;
-        while(curr){
-            arr.push_back(curr->val);
-            curr = curr->next;
+        ListNode *slow = head, *fast = head, *prev = nullptr;
+        while(fast and fast->next){
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        int left = 0, right = arr.size()-1;
-        int maxi = 0;
-        while(left<right){
-            maxi = max(maxi, (arr[left] + arr[right]));
-            left++; right--;
+        prev->next = nullptr;
+        slow = reverseList(slow);
+
+        int ans = 0;
+        while(head){
+            ans = max(ans, slow->val + head->val);
+            slow = slow->next;
+            head = head->next;
         }
 
-        return maxi;
+        return ans;
     }
 };
