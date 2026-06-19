@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/parthgithub-byte/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1732-find-the-highest-altitude](https://github.com/parthgithub-byte/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/parthgithub-byte/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/parthgithub-byte/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/parthgithub-byte/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
