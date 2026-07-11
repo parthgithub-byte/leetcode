@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parthgithub-byte/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
+| [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parthgithub-byte/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parthgithub-byte/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
+| [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
