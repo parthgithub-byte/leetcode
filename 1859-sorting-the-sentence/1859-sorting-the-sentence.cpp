@@ -1,44 +1,37 @@
 class Solution {
 public:
     string sortSentence(string s) {
-        vector<string>words;
+        vector<string>words(10);    
 
-        int n = s.size();
+        int n = s.size(), count = 0;
+
         string temp = "";
         for (int i=0; i<n; i++){
             if (s[i ]== ' '){
-                words.push_back(temp);
+                int index = temp[temp.size()-1] - '0';
+                temp.pop_back();
+                words[index] = temp;
                 temp.clear();
+                count++;
             }
             else{
                 temp.push_back(s[i]);
             }
         }
-        words.push_back(temp);
 
-        vector<string>serialWords(words.size());
+        int index = temp[temp.size()-1] - '0';
+        temp.pop_back();
+        words[index] = temp;
+        temp.clear();
+        count++;
 
-        for (auto it : words){
-            string index = "";
 
-            while (it[it.size() - 1] >= '0' && it[it.size() - 1] <= '9'){
-                index = it[it.size() - 1] + index;
-                it.pop_back();
-            }
-            // removing the trailing digit and storing the index from back
-
-            int i = stoi(index);
-            serialWords[i-1] = it;
+        for (int i=1; i<=count; i++){
+            temp += words[i];
+            temp += " ";
         }
 
-        string ans = "";
-        for (auto it : serialWords){
-            ans += it;
-            ans += " ";
-        }
-
-        ans.pop_back();
-
-        return ans;
+        temp.pop_back();
+        return temp;
     }
 };
