@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/parthgithub-byte/leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/parthgithub-byte/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/parthgithub-byte/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/parthgithub-byte/leetcode/tree/master/0415-add-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/parthgithub-byte/leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parthgithub-byte/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
