@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [1859-sorting-the-sentence](https://github.com/parthgithub-byte/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2785-sort-vowels-in-a-string](https://github.com/parthgithub-byte/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parthgithub-byte/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/parthgithub-byte/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/parthgithub-byte/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/parthgithub-byte/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
