@@ -22,6 +22,6 @@ public:
                 end=mid-1;
             }
         }
-        return end;
+        return -1;
     }
 };
