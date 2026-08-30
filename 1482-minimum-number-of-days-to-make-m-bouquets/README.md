@@ -50,3 +50,8 @@ It is obvious that we can make two bouquets in different ways.
 	<li><code>1 &lt;= m &lt;= 10<sup>6</sup></code></li>
 	<li><code>1 &lt;= k &lt;= n</code></li>
 </ul>
+<br><br>
+<img width="1536" height="954" alt="imagereasonfullblur" src="https://github.com/user-attachments/assets/e11d41b0-27d8-4eb0-a296-c521ba0481c0" />
+<br>Clearer: <br>
+<img width="1536" height="691" alt="imagereason" src="https://github.com/user-attachments/assets/e23e90e3-6f65-4857-8b61-7daa88ba5dee" />
+
