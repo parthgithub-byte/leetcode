@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthgithub-byte/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/parthgithub-byte/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/parthgithub-byte/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parthgithub-byte/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/parthgithub-byte/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/parthgithub-byte/leetcode/tree/master/0410-split-array-largest-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parthgithub-byte/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parthgithub-byte/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parthgithub-byte/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthgithub-byte/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/parthgithub-byte/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parthgithub-byte/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Ternary Search
 |  |
 | ------- |
