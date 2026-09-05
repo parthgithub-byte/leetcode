@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/parthgithub-byte/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/parthgithub-byte/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parthgithub-byte/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/parthgithub-byte/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parthgithub-byte/leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parthgithub-byte/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/parthgithub-byte/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/parthgithub-byte/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/parthgithub-byte/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
