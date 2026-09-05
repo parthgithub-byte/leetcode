@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthgithub-byte/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/parthgithub-byte/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/parthgithub-byte/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/parthgithub-byte/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parthgithub-byte/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/parthgithub-byte/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/parthgithub-byte/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
