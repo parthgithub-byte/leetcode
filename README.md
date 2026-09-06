@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthgithub-byte/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthgithub-byte/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthgithub-byte/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/parthgithub-byte/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/parthgithub-byte/leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/parthgithub-byte/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/parthgithub-byte/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parthgithub-byte/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthgithub-byte/leetcode/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/parthgithub-byte/leetcode/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parthgithub-byte/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthgithub-byte/leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parthgithub-byte/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/parthgithub-byte/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -151,12 +154,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthgithub-byte/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthgithub-byte/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthgithub-byte/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
