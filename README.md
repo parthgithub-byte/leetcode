@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/parthgithub-byte/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthgithub-byte/leetcode/tree/master/0229-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/parthgithub-byte/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
