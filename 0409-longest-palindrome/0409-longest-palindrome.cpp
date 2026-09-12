@@ -1,23 +1,19 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        vector<int>charFreq(256,0);
-        
-        for (auto c : s){
-            charFreq[c]++;
+        vector<int>letter(256, 0);
+        for (auto c:s){
+            letter[c-'A']++;
         }
-        
-        bool odd = false;
-        int count = 0;
-        
-        for (auto f : charFreq){
-            count += (f/2)*2;
-            if (f%2 == 1)   odd = true;
+
+        bool odd=false;
+        int total=0;
+        for (auto count: letter){
+            if((count%2==1))    odd=true;
+            total+=((count/2)*2);
         }
-        
-        if (odd)
-            count += 1;
-            
-        return count;
+        if (odd) total++;
+
+        return total;
     }
 };
